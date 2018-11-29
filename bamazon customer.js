@@ -1,2 +1,0 @@
-require ("mySQL");
-require ("inqirer");
